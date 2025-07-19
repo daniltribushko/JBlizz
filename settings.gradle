@@ -1,0 +1,4 @@
+rootProject.name = 'JBlizz'
+include 'core'
+include 'diablo'
+
